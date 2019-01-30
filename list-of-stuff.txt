@@ -1,6 +1,9 @@
 This is a basic list of stuff that we can all contribute to.
 
 Things I/we have to do today:
+
+- work with each other
+- learn repository
 -go to class
 -do homework
 -eat lunch
